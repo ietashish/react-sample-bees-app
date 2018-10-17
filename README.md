@@ -17,14 +17,14 @@ A React Sample Application used for SPA demos
 # How to get the app running
 
 ### Clone the repo : 
-`git clone git@git.corp.adobe.com:ashishg/demostore.git`
+`git clone git@github.com:ietashish/react-sample-bees-app.git`
 
 ### Include your org's at.js : 
 1. Download at.js for SPA from "Setup > Implementation > “Download at.js for SPA"
 2. Replace the at.js in `js` directory with the downloaded one.
 
 ### Install npm dependencies : 
-1. cd in react-sample-bees-app
+1. `cd` in `react-sample-bees-app` directory
 2. `npm install`
 3. `npm run build`
 4. `npm run start`
