@@ -30,5 +30,5 @@ A React Sample Application used for SPA demos
 4. `npm run start`
 
 
-### Go to 
+### Open app : 
 The app will start at http://localhost:3000/
